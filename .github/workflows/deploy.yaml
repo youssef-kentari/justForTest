@@ -27,5 +27,5 @@ jobs:
           context: .
           push: true
           tags: |
-            youssefkentari/justForTest:latest
-            youssefkentari/justForTest:${{ github.sha }}
+            youssefkentari/justfortest:latest
+            youssefkentari/justfortest:${{ github.sha }}
