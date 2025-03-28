@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: ghcr.io//mon-projet-web:latest
+        image: ghcr.io/youssef-kentari/mon-projet-web:latest
         ports:
         - containerPort: 80
         resources:
